@@ -1,8 +1,8 @@
 # VaxInsight – Health Insight Dashboard
 ### Global Vaccine Market Analytics Platform
 
-[![Frontend](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-blue?logo=react)](https://vaxinsight.vercel.app)
-[![Backend](https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-green?logo=node.js)](https://vaxinsight-api.onrender.com)
+[![Frontend](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-blue?logo=react)](https://coherent-assignment-five.vercel.app/)
+[![Backend](https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-green?logo=node.js)](https://coherent-assignment-dk7e.onrender.com)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
 ---
@@ -11,9 +11,9 @@
 
 | Service  | URL |
 |----------|-----|
-| **Frontend** | `https://vaxinsight.vercel.app` *(update after deploy)* |
-| **Backend**  | `https://vaxinsight-api.onrender.com` *(update after deploy)* |
-| **API Health** | `https://vaxinsight-api.onrender.com/api/health` |
+| **Frontend** | `https://coherent-assignment-five.vercel.app/` |
+| **Backend**  | `https://coherent-assignment-dk7e.onrender.com` |
+| **API Health** | `https://coherent-assignment-dk7e.onrender.com/api/health` |
 
 ---
 
