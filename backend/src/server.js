@@ -21,5 +21,5 @@ app.get('/api/health', (_req, res) => res.json({ status: 'ok', uptime: process.u
 app.use((_req, res) => res.status(404).json({ success: false, error: 'Route not found' }));
 
 app.listen(PORT, () => {
-  console.log(`✅ VaxInsight API running on PORT: ${PORT}`);
+  console.log(` VaxInsight API running on PORT: ${PORT}`);
 });
