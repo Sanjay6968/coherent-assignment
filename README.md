@@ -3,7 +3,7 @@
 ### Global Vaccine Market Analytics Platform
 
 [![Frontend](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-blue?logo=react)](https://coherent-assignment-five.vercel.app/)
-[![Backend](https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-green?logo=node.js)](https://coherent-assignment-dk7e.onrender.com)
+[![Backend](https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-green?logo=node.js)](https://coherent-assignment-dk7e.onrender.com/api/vaccines)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
 ---
@@ -13,7 +13,7 @@
 | Service  | URL |
 |----------|-----|
 | **Frontend** | `https://coherent-assignment-five.vercel.app/` |
-| **Backend**  | `https://coherent-assignment-dk7e.onrender.com` |
+| **Backend**  | `https://coherent-assignment-dk7e.onrender.com/api/vaccines` |
 | **API Health** | `https://coherent-assignment-dk7e.onrender.com/api/health` |
 
 ---
