@@ -182,7 +182,7 @@ Same filter params as above (no pagination).
 1. New project on [vercel.com](https://vercel.com), import GitHub repo
 2. **Root Directory**: `frontend`
 3. **Framework preset**: Vite
-4. Add env var: `VITE_API_URL=https://YOUR-RENDER-URL.onrender.com/api`
+4. Add env var: `VITE_API_URL=https://coherent-assignment-dk7e.onrender.com/api`
 
 ---
 
