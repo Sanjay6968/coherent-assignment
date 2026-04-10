@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### Frontend
 - **3-tab navigation**: Overview · Analytics · Data Explorer
